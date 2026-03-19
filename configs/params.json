@@ -5,7 +5,7 @@
         "Axis_Param": {
             "Axis_1.ratio": "PI/180",
             "Axis_1.s_min": "-150",
-            "Axis_1.s_max": "150",
+            "Axis_1.s_max": "2000",
             "Axis_1.s_init": "0",
             "Axis_1.v_max": "50000",
             "Axis_1.a_max": "100000",
@@ -30,7 +30,7 @@
         },
         "Trafo_Param": {
             "trafo[0].id": "37",
-            "trafo[0].param[0]": "0",
+            "trafo[0].param[0]": "123.4345",
             "trafo[0].param[1]": "0",
             "trafo[0].param[2]": "0",
             "trafo[0].param[3]": "50",
@@ -138,14 +138,14 @@
             "Axis_5.a_max": "2500",
             "Axis_6.ratio": "PI/180",
             "Axis_6.s_min": "-270",
-            "Axis_6.s_max": "270",
+            "Axis_6.s_max": "970",
             "Axis_6.s_init": "0",
             "Axis_6.v_max": "600",
             "Axis_6.a_max": "3000"
         },
         "Trafo_Param": {
             "trafo[0].id": "45",
-            "trafo[0].param[0]": "0",
+            "trafo[0].param[0]": "1111.1111",
             "trafo[0].param[1]": "0",
             "trafo[0].param[2]": "0",
             "trafo[0].param[3]": "0",

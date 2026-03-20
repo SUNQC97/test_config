@@ -30,7 +30,7 @@
         },
         "Trafo_Param": {
             "trafo[0].id": "37",
-            "trafo[0].param[0]": "123.4345",
+            "trafo[0].param[0]": "0",
             "trafo[0].param[1]": "0",
             "trafo[0].param[2]": "0",
             "trafo[0].param[3]": "50",
@@ -145,8 +145,8 @@
         },
         "Trafo_Param": {
             "trafo[0].id": "45",
-            "trafo[0].param[0]": "1111.1111",
-            "trafo[0].param[1]": "0",
+            "trafo[0].param[0]": "1111",
+            "trafo[0].param[1]": "22220",
             "trafo[0].param[2]": "0",
             "trafo[0].param[3]": "0",
             "trafo[0].param[4]": "0",

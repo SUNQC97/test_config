@@ -145,7 +145,7 @@
         },
         "Trafo_Param": {
             "trafo[0].id": "45",
-            "trafo[0].param[0]": "1111",
+            "trafo[0].param[0]": "222.2222",
             "trafo[0].param[1]": "22220",
             "trafo[0].param[2]": "0",
             "trafo[0].param[3]": "0",
